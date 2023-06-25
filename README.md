@@ -27,7 +27,7 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## Contact
 
-If you have any questions or comments about this project, please contact the project owner at [abhaysingh0836481@outlook.com].
+If you have any questions or comments about this project, please contact the project owner at [Alarm-clock](https://vinita-fsd.github.io/Alaram-clock/].
 
 ## link live server:
 [Alarm-clock](https://vinita-fsd.github.io/Alaram-clock/)
